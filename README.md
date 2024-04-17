@@ -1,4 +1,6 @@
-# Correlation and regression for data analysis
+# Correlation and regression for data analysis:
+# NAME: REVANTH PALAGIRI
+# REFERENCE NO:212223040143
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
